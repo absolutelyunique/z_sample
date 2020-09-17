@@ -6,6 +6,7 @@ public class App {
 		
 		System.out.println("Hello World !!");
 		System.out.println("Testing sonar qube !!");
+		System.out.println("Testing sonar qube 2 !!");
 		
 		for(int i=1; i>=1; i++){
             System.out.println("The value of i is: "+i);
